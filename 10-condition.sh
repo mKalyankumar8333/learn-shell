@@ -12,5 +12,5 @@ elif [$marks -lt 75]; then
 echo "First Class"
 elif 
 echo "Distinction"
-fi 
+fi
 echo "End"
